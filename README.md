@@ -1,16 +1,25 @@
+<!-- **mdadnanhusaain/mdadnanhusaain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# Md Adnan Hussain
+
+[![linkedin](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/linkedin.png)](https://www.linkedin.com/in/mdadnanhusaain/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![twitter](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/twitter.png)](https://twitter.com/mdadnanhusaain)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![instagram](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/instagram.png)](https://instagram.com/mdadnanhusaain) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![mail](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/mail.png)](mailto:hussainadnan906@gmail.com)
+
 ### Hi there 👋
 
-<!--
-**mdadnanhusaain/mdadnanhusaain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Md Adnan Hussain. My main interest is in Data Analytics & Web Development. I'm always eager to learn new Computer Technologies and aspire to become an Amazing Software Engineer someday soon. 😉
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on myself, trying my best to learn more and as much as I can.
+
+- 🌱 I’m currently learning at DevIncept and ShapeAI for DSA, Python, Web Dev & Data Analytics.
+
+- 🌟 I want to expand my boundaries in the fields of AI ML & Cloud Computing.
+
+- 💬 Ask me about basic Python & Java.
+
+- 📫 How to reach me: You can contact me directly on here [hussainadnan906@gmail.com](mailto:hussainadnan906@gmail.com).
+
+- ⚡ Fun fact: I prefer to work in calm, friendly environment, but aren't influenced by likes & dislikes when .
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arpit-dwivedi&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
+
+<div style="text-align: right"> --- updated on 8<sup>th</sup> July, 2021 </div>
