@@ -6,8 +6,8 @@
 ### Hi there 👋
 
 I am Md Adnan Hussain. My main interest is in Data Analytics & Web Development. I'm always eager to learn new Computer Technologies and aspire to become an Amazing Software Engineer someday soon. 😉
-
-
+<br />
+### Some Facts about me:- <br />
 - 🔭 I’m currently working on myself, trying my best to learn more and as much as I can.
 
 - 🌱 I’m currently learning at DevIncept and ShapeAI for DSA, Python, Web Dev & Data Analytics.
