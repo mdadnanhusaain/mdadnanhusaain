@@ -20,8 +20,8 @@ I am Md Adnan Hussain. My main interest is in Data Analytics & Web Development. 
 
 - ⚡ Fun fact: I prefer to work in calm, friendly environment, but aren't influenced by likes & dislikes when .
 
-<br />
+<br /><br />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdadnanhusaain&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
-<br /><br /><br />
+<br /><br /><br /><br />
 <sub> --- updated on 8<sup>th</sup> July, 2021 </sub>
