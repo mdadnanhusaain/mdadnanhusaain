@@ -3,7 +3,7 @@
 
 [![linkedin](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/linkedin.png)](https://www.linkedin.com/in/mdadnanhusaain/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![twitter](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/twitter.png)](https://twitter.com/mdadnanhusaain)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![instagram](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/instagram.png)](https://instagram.com/mdadnanhusaain) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![mail](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/mail.png)](mailto:hussainadnan906@gmail.com)
 
-### Hi there 👋
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 I am Md Adnan Hussain. My main interest is in Data Analytics & Web Development. I'm always eager to learn new Computer Technologies and aspire to become an Amazing Software Engineer someday soon. 😉
 <br />
