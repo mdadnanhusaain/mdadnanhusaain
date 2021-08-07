@@ -9,7 +9,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:mdadnanhusaain@gmail.com"><img src="Assets/Email.gif" width="50px"></a> 
 
-<br>
 
 ## __Hi <img src="Assets/Hi.gif" width="25px">, I'm Adnan__
 ### __About me 🚀__ 
