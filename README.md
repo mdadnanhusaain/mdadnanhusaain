@@ -2,19 +2,19 @@
 # Md Adnan Hussain
 
 <a href="https://www.linkedin.com/in/mdadnanhusaain/"> 
-    <img src="https://github.com/mdadnanhusaain/mdadnanhusaain/blob/master/Assets/LinkedIn.gif" width="50px">
+    <img src="Assets/LinkedIn.gif" width="50px">
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/mdadnanhusaain"> 
-    <img src="https://github.com/mdadnanhusaain/mdadnanhusaain/blob/master/Assets/Twitter.gif" width="50px">
+    <img src="Assets/Twitter.gif" width="50px">
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/mdadnanhusaain"> 
-    <img src="https://github.com/mdadnanhusaain/mdadnanhusaain/blob/master/Assets/Instagram.gif" width="50px">
+    <img src="Assets/Instagram.gif" width="50px">
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:mdadnanhusaain@gmail.com"> 
-    <img src="https://github.com/mdadnanhusaain/mdadnanhusaain/blob/master/Assets/Email.gif" width="50px">
+    <img src="Assets/Email.gif" width="50px">
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Hi there <img src="https://github.com/mdadnanhusaain/mdadnanhusaain/blob/master/Assets/Hi.gif" width="29px">
+### Hi there <img src="Assets/Hi.gif" width="29px">
 
 This is Md Adnan Hussain. My main interest is in Data Analytics & Web Development. I'm always eager to learn new Computer Technologies and aspire to become an Amazing Software Engineer someday soon. 😉
 <br />
