@@ -12,15 +12,14 @@
 
 ## __Hi <img src="Assets/Hi.gif" width="25px">, I'm Adnan__
 ### __About me 🚀__ 
-<br/>
+
 <ul>
     <li>Dev Enthusiast from Ranchi, India who enjoys to learn & explore Computer Science field. </li>
     <li>Have a keen interest in Web Development, Cloud Computing, Data Analysis, Machine Learning & Artificial Intelligence. </li>
 </ul>
-<br />
+
 
 ### __Some Facts about me 🌟__
-<br>
 
 - 🎓 I’m currently pursuing my B. Tech in CSE degree from <a href="https://www.cuchd.in">Chandigarh University</a>.
 
