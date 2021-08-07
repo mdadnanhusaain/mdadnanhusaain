@@ -21,7 +21,7 @@
 
 ### __Some Facts about me 🌟__
 
-- 🎓 I’m currently pursuing my B. Tech in CSE degree from <a href="https://www.cuchd.in">Chandigarh University</a>.
+- 🎓 I’m currently pursuing my Bachelors in Computer Science & Engineering from <a href="https://www.cuchd.in">Chandigarh University</a>.
 
 - 🔭 I’m currently working on myself, trying my best to learn more and as much as I can.
 
