@@ -1,11 +1,22 @@
 <!-- **mdadnanhusaain/mdadnanhusaain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 # Md Adnan Hussain
 
-[![linkedin](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/linkedin.png)](https://www.linkedin.com/in/mdadnanhusaain/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![twitter](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/twitter.png)](https://twitter.com/mdadnanhusaain)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![instagram](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/instagram.png)](https://instagram.com/mdadnanhusaain) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![mail](https://github.com/mdadnanhusaain/mdadnanhusaain.github.io/blob/main/mail.png)](mailto:mdadnanhusaain@gmail.com)
+<a href="https://www.linkedin.com/in/mdadnanhusaain/"> 
+    <img src="https://github.com/mdadnanhusaain/mdadnanhusaain/blob/master/Assets/LinkedIn.gif" width="29px">
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/mdadnanhusaain"> 
+    <img src="https://github.com/mdadnanhusaain/mdadnanhusaain/blob/master/Assets/Twitter.gif" width="29px">
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/mdadnanhusaain"> 
+    <img src="https://github.com/mdadnanhusaain/mdadnanhusaain/blob/master/Assets/Instagram.gif" width="29px">
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:mdadnanhusaain@gmail.com"> 
+    <img src="https://github.com/mdadnanhusaain/mdadnanhusaain/blob/master/Assets/Email.gif" width="29px">
+</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-I am Md Adnan Hussain. My main interest is in Data Analytics & Web Development. I'm always eager to learn new Computer Technologies and aspire to become an Amazing Software Engineer someday soon. 😉
+This is Md Adnan Hussain. My main interest is in Data Analytics & Web Development. I'm always eager to learn new Computer Technologies and aspire to become an Amazing Software Engineer someday soon. 😉
 <br />
 ### Some Facts about me:- <br />
 - 🔭 I’m currently working on myself, trying my best to learn more and as much as I can.
