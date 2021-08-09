@@ -11,7 +11,7 @@
 
 
 ## __Hi <img src="Assets/Hi.gif" width="25px">, I'm Adnan__
-### __About me 🚀__ 
+### __About me <img src="Assets/Rocket.gif" width="30px">__ 
 
 <ul>
     <li>Dev Enthusiast from Ranchi, India who enjoys to learn & explore Computer Science field. </li>
@@ -19,7 +19,7 @@
 </ul>
 
 
-### __Some Facts about me 🌟__
+### __Some Facts about me <img src="Assets/Star.gif" width="30px">__
 
 - 🎓 I’m currently pursuing my Bachelors in Computer Science & Engineering from <a href="https://www.cuchd.in">Chandigarh University</a>.
 
