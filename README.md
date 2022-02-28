@@ -28,7 +28,7 @@
 
 - <img src="Assets/Fire.gif" width="20px"> I want to expand my boundaries in the fields of Data Science, AI ML & Cloud Computing.
 
-- <img src="Assets/Thought.gif" width="22px"> Ask me about Python & Java.
+- <img src="Assets/Thought.gif" width="22px"> Ask me anything about Python & Java.
 
 - <img src="Assets/Connect.gif" width="20px" height="14px"> How to reach me: You can find all my socials at <a href="https://www.linktree.com/mdadnanhusaain" target="_blank">linktr.ee/mdadnanhusaain</a>.
 
