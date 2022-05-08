@@ -30,7 +30,7 @@
 
 - <img src="Assets/Thought.gif" width="22px"> Ask me anything about Python & Java.
 
-- <img src="Assets/Connect.gif" width="20px" height="14px"> How to reach me: You can find all my socials at <a href="https://www.linktree.com/mdadnanhusaain" target="_blank">linktr.ee/mdadnanhusaain</a>.
+- <img src="Assets/Connect.gif" width="35px" height="20px"> How to reach me: You can find all my socials at <a href="https://www.linktree.com/mdadnanhusaain" target="_blank">linktr.ee/mdadnanhusaain</a>.
 
 - &nbsp;<img src="Assets/FunFact.gif" width="10px"> &nbsp; Fun fact: My *Machine* 💻 &nbsp;is my Girlfriend.
 
