@@ -13,7 +13,7 @@
 
 
 ## __Hi <img src="Assets/Hi.gif" width="25px"  height="50px">, I'm Md Adnan__
-### __About me <img src="Assets/Rocket.gif" width="30px" height="10px">__ 
+### __About me <img src="Assets/Rocket.gif" width="30px" height="30px">__ 
 
 <ul>
     <li>Dev Enthusiast from Ranchi, India who enjoys to learn & explore Computer Science field. </li>
@@ -21,19 +21,19 @@
 </ul>
 
 
-### __Some Facts about me <img src="Assets/Star.gif" width="30px" height="10px">__
+### __Some Facts about me <img src="Assets/Star.gif" width="30px" height="30px">__
 
-- <img src="Assets/Graduation.gif" width="10px" height="10px"> I’m currently pursuing my Bachelors in Computer Science & Engineering from <a href="https://www.cuchd.in" target="_blank">Chandigarh University</a>.
+- <img src="Assets/Graduation.gif" width="10px" height="20px"> I’m currently pursuing my Bachelors in Computer Science & Engineering from <a href="https://www.cuchd.in" target="_blank">Chandigarh University</a>.
 
-- <img src="Assets/Telescope.gif" width="30px" height="10px"> I’m currently working on myself, trying my best to learn more and as much as I can.
+- <img src="Assets/Telescope.gif" width="30px" height="20px"> I’m currently working on myself, trying my best to learn more and as much as I can.
 
-- <img src="Assets/Fire.gif" width="20px" height="10px"> I want to expand my boundaries in the fields of Data Science, AI ML & Cloud Computing.
+- <img src="Assets/Fire.gif" width="20px" height="20px"> I want to expand my boundaries in the fields of Data Science, AI ML & Cloud Computing.
 
-- <img src="Assets/Thought.gif" width="22px" height="10px"> Ask me anything about Python & Java.
+- <img src="Assets/Thought.gif" width="22px" height="20px"> Ask me anything about Python & Java.
 
-- <img src="Assets/Connect.gif" width="35px" height="10px"> How to reach me: You can find all my socials at <a href="https://www.linktree.com/mdadnanhusaain" target="_blank">linktr.ee/mdadnanhusaain</a>.
+- <img src="Assets/Connect.gif" width="35px" height="20px"> How to reach me: You can find all my socials at <a href="https://www.linktree.com/mdadnanhusaain" target="_blank">linktr.ee/mdadnanhusaain</a>.
 
-- &nbsp;<img src="Assets/FunFact.gif" width="10px" height="10px"> &nbsp; Fun fact: My *Machine* 💻 &nbsp;is my Girlfriend.
+- &nbsp;<img src="Assets/FunFact.gif" width="10px" height="20px"> &nbsp; Fun fact: My *Machine* 💻 &nbsp;is my Girlfriend.
 
 <br /><br />
 
