@@ -1,18 +1,18 @@
 <!-- **mdadnanhusaain/mdadnanhusaain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 # __<font size="10">Md Adnan Hussain</font>__
 
-<a href="https://www.linkedin.com/in/mdadnanhusaain/"><img src="Assets/LinkedIn.gif" width="50px" height="50px"></a>
+<a href="https://www.linkedin.com/in/mdadnanhusaain/"><img src="Assets/LinkedIn.gif" width="50px" height="60px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/mdadnanhusaain"><img src="Assets/Instagram.gif" width="50px" height="50px"></a>
+<a href="https://instagram.com/mdadnanhusaain"><img src="Assets/Instagram.gif" width="50px" height="60px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/mdadnanhusaain"><img src="Assets/Twitter.gif" width="50px" height="50px"></a>
+<a href="https://twitter.com/mdadnanhusaain"><img src="Assets/Twitter.gif" width="50px" height="60px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:mdadnanhusaain@gmail.com"><img src="Assets/Email.gif" width="50px" height="50px"></a> 
+<a href="mailto:mdadnanhusaain@gmail.com"><img src="Assets/Email.gif" width="60px" height="50px"></a> 
 
 <br>
 
 
-## __Hi <img src="Assets/Hi.gif" width="25px">, I'm Md Adnan__
+## __Hi <img src="Assets/Hi.gif" width="25px"  height="50px">, I'm Md Adnan__
 ### __About me <img src="Assets/Rocket.gif" width="30px">__ 
 
 <ul>
