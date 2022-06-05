@@ -25,9 +25,9 @@
 
 - <img src="Assets/Graduation.gif" width="10px" height="30px"> I’m currently pursuing my Bachelors in Computer Science & Engineering from <a href="https://www.cuchd.in" target="_blank">Chandigarh University</a>.
 
-- <img src="Assets/Telescope.gif" width="30px" height="30px"> I’m currently working on myself, trying my best to learn more and as much as I can.
+- <img src="Assets/Telescope.gif" width="30px" height="40px"> I’m currently working on myself, trying my best to learn more and as much as I can.
 
-- <img src="Assets/Fire.gif" width="20px" height="30px"> I want to expand my boundaries in the fields of Data Science, AI ML & Cloud Computing.
+- <img src="Assets/Fire.gif" width="20px" height="40px"> I want to expand my boundaries in the fields of Data Science, AI ML & Cloud Computing.
 
 - <img src="Assets/Thought.gif" width="22px" height="30px"> Ask me anything about Python & Java.
 
