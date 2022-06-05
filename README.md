@@ -8,7 +8,6 @@
 <a href="https://twitter.com/mdadnanhusaain"><img src="Assets/Twitter.gif" width="50px" height="60px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:mdadnanhusaain@gmail.com"><img src="Assets/Email.gif" width="60px" height="50px"></a> 
-
 <br>
 
 
