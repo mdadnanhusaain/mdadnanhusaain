@@ -13,7 +13,7 @@
 
 
 ## __Hi <img src="Assets/Hi.gif" width="25px"  height="50px">, I'm Md Adnan__
-### __About me <img src="Assets/Rocket.gif" width="30px">__ 
+### __About me <img src="Assets/Rocket.gif" width="30px" height="10px">__ 
 
 <ul>
     <li>Dev Enthusiast from Ranchi, India who enjoys to learn & explore Computer Science field. </li>
@@ -21,7 +21,7 @@
 </ul>
 
 
-### __Some Facts about me <img src="Assets/Star.gif" width="30px">__
+### __Some Facts about me <img src="Assets/Star.gif" width="30px" height="10px">__
 
 - <img src="Assets/Graduation.gif" width="10px" height="10px"> I’m currently pursuing my Bachelors in Computer Science & Engineering from <a href="https://www.cuchd.in" target="_blank">Chandigarh University</a>.
 
