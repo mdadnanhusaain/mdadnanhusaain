@@ -1,5 +1,6 @@
 <!-- **mdadnanhusaain/mdadnanhusaain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-# __<font size="10">Md Adnan Hussain</font>__
+
+# **<font size="10">Md Adnan Hussain</font>**
 
 <a href="https://www.linkedin.com/in/mdadnanhusaain/"><img src="Assets/LinkedIn.gif" width="50px" height="50px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -7,20 +8,19 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/mdadnanhusaain"><img src="Assets/Twitter.gif" width="50px" height="50px"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:mdadnanhusaain@gmail.com"><img src="Assets/Email.gif" width="50px" height="50px"></a> 
+<a href="mailto:mdadnanhusaain@gmail.com"><img src="Assets/Email.gif" width="50px" height="50px"></a>
 <br>
 
+## **Hi <img src="Assets/Hi.gif" width="25px"  height="25px">, I'm Md Adnan**
 
-## __Hi <img src="Assets/Hi.gif" width="25px"  height="25px">, I'm Md Adnan__
-### __About me <img src="Assets/Rocket.gif" width="30px" height="40px">__ 
+### **About me <img src="Assets/Rocket.gif" width="30px" height="40px">**
 
 <ul>
     <li>Dev Enthusiast from Ranchi, India who enjoys to learn & explore Computer Science field. </li>
     <li>Have a keen interest in Data Science, Web Development, Cloud Computing, Machine Learning & Artificial Intelligence. </li>
 </ul>
 
-
-### __Some Facts about me <img src="Assets/Star.gif" width="30px" height="40px">__
+### **Some Facts about me <img src="Assets/Star.gif" width="30px" height="40px">**
 
 - <img src="Assets/Graduation.gif" width="10px" height="30px"> I’m currently pursuing my Bachelors in Computer Science & Engineering from <a href="https://www.cuchd.in" target="_blank">Chandigarh University</a>.
 
@@ -32,7 +32,7 @@
 
 - <img src="Assets/Connect.gif" width="35px" height="30px"> How to reach me: You can find all my socials at <a href="https://www.linktree.com/mdadnanhusaain" target="_blank">linktr.ee/mdadnanhusaain</a>.
 
-- &nbsp;<img src="Assets/FunFact.gif" width="10px" height="30px"> &nbsp; Fun fact: My *Machine* 💻 &nbsp;is my Girlfriend.
+- &nbsp;<img src="Assets/FunFact.gif" width="10px" height="30px"> &nbsp; Fun fact: My _Machine_ 💻 &nbsp;is my Girlfriend.
 
 <br /><br />
 
