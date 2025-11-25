@@ -17,14 +17,14 @@
 
 <ul>
     <li>Dev Enthusiast from Ranchi, India who enjoys to learn & explore Computer Science field. </li>
-    <li>Have a keen interest in Data Science, Web Development, Cloud Computing, Machine Learning & Artificial Intelligence. </li>
+    <li>Have a keen interest in Full Stack Web Development, MERN Stack, NextJS & so on.</li>
 </ul>
 
 ### **Some Facts about me <img src="Assets/Star.gif" width="30px" height="40px">**
 
-- <img src="Assets/Graduation.gif" width="10px" height="30px"> I’m currently pursuing my Bachelors in Computer Science & Engineering from <a href="https://www.cuchd.in" target="_blank">Chandigarh University</a>.
+- <img src="Assets/Telescope.gif" width="30px" height="40px"> I’m currently working as FrontEnd dev at <a href="https://www.altudo.co/" target="_blank">Altudo</a>, expanding my skills along the way, building up my skillset.
 
-- <img src="Assets/Telescope.gif" width="30px" height="40px"> I’m currently working on myself, trying my best to learn more and as much as I can.
+- <img src="Assets/Graduation.gif" width="10px" height="30px"> Completed my Bachelors in Computer Science & Engineering from <a href="https://www.cuchd.in" target="_blank">Chandigarh University</a>.
 
 - <img src="Assets/Fire.gif" width="20px" height="40px"> I want to expand my boundaries in the fields of Data Science, AI ML & Cloud Computing.
 
